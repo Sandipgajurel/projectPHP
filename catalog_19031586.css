@@ -1,0 +1,261 @@
+musicStore{
+	border: solid;
+	background-color: #fff;
+}
+storeName{
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-align: center;
+	color: rgb(71,1,18);
+	font-size: 60px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #990000;
+	border: solid 5px;
+	border-bottom:solid 4px;
+}
+Address{
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-align: center;
+	color: rgb(0,0,0);
+	font-size: 20px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #fff;
+	border-top: none;
+}
+Contact{
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-align: center;
+	color: rgb(0,0,0);
+	font-size: 20px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #fff;
+	border-top: none;
+}
+Website_Address{
+	display: block;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-align: center;
+	color: rgb(0,0,0);
+	font-size: 17px;
+	padding: 5px;
+	font-weight: bold;
+	background-color: #fff;
+	border-top: none;
+}
+Logo{
+background: url("logoimg.jpg");
+width:130px;
+height:130px;
+background-size: 130px;
+float: left;
+top:1px;
+margin: 5px;
+border:3px solid #bf1327;
+}	
+songs{
+	float: right;
+	width: 100%;
+	padding: 40px;
+}
+music::before{
+	content: "Type:" attr(Type);
+	text-align: center;
+	display: block;
+	font-weight: bold;
+	font-size: 40px;
+	background-color: #470315;
+}
+music {
+display: block;
+border:2px solid;
+padding: 1px;
+background-color:#fff;
+font-size: 30px;
+border: 10px solid #fff;
+}
+musicName::before{
+	content: "Music Name:"attr(id);
+	font-weight: bold;
+	font-size: 25px;
+}
+musicName{
+	display: block;
+	text-align: center;
+}
+releasedDate::before{
+content: "Release date:"attr(month);
+font-weight: bold;
+font-size: 25px;
+}
+releasedDate{
+	display: block;
+	text-align: center;
+}
+movieName::before{
+	content: "movie Name:";
+	font-weight: bold;
+	font-size: 25px;
+}
+movieName{
+	display: block;
+	text-align: center;
+}
+language::before{
+	content: "Language:";
+	font-weight: bold;
+	font-size: 25px;	
+}
+language{
+	display: block;
+	text-align: center;
+}
+versions::before{
+	content: "Version:";
+	font-weight: bold;
+	font-size: 25px;
+}
+versions{
+	display: block;
+	text-align: center;
+}
+album::before{
+	content: "Album:";
+	font-weight: bold;
+	font-size: 25px;
+}
+album{
+	display: block;
+	text-align: center;
+}
+genre::before{
+	content: "Genre:";
+	font-weight: bold;
+	font-size: 25px;	
+}
+genre{
+	display: block;
+	text-align: center;
+}
+producingTeam{
+	display: block;
+	text-align: center;
+	background-color: #e8edea
+}
+singer::before{
+	content: "SINGER";
+	text-align: center;
+	display: block;
+	font-weight: bold;
+	font-size: 30px;
+}
+singer{
+display: block;
+text-align: center;
+border: solid 3px #fff;
+}
+
+singerName::before{
+content: "Singer Name:";
+font-weight: bold;
+font-size: 25px;
+
+}
+singerAddress::before{
+	content: "Address:";
+	font-weight: bold;
+	font-size: 25px;
+}
+singerPhoneNumber::before{
+	content: "Phone Number:";
+	font-weight: bold;
+	font-size: 25px;
+}
+singerEmailAddress::before{
+	content: "Email Address: ";
+	font-weight: bold;
+	font-size: 25px;
+}
+singerName,singerAddress,singerPhoneNumber,singerEmailAddress{
+	text-align: center;
+	display: block
+}
+musicWriter::before{
+	content: "WRITER";
+	text-align: center;
+	display: block;
+	font-weight: bold;
+	font-size: 30px;
+}
+musicWriter{
+display: block;
+text-align: center;
+border: solid 3px #fff;
+}
+writerName::before{
+content: "writer Name:";
+font-weight: bold;
+font-size: 25px;
+
+}
+writerAddress::before{
+	content: "Address:";
+	font-weight: bold;
+	font-size: 25px;
+}
+writerPhoneNumber::before{
+	content: "Phone Number:";
+	font-weight: bold;
+	font-size: 25px;
+}
+writerEmailAddress::before{
+	content: "Email Address: ";
+	font-weight: bold;
+	font-size: 25px;
+}
+writerName,writerAddress,writerPhoneNumber,writerEmailAddress{
+	display: block;
+	text-align: center;
+}
+producer::before{
+	content: "PRODUCER";
+	text-align: center;
+	display: block;
+	font-weight: bold;
+	font-size: 30px;
+}
+producer{
+display: block;
+text-align: center;
+border: solid 3px #fff;
+}
+
+producerName::before{
+content: "producer Name:";
+font-weight: bold;
+font-size: 25px;
+
+}
+producerAddress::before{
+	content: "Address:";
+	font-weight: bold;
+	font-size: 25px;
+}
+producerPhoneNumber::before{
+	content: "Phone Number:";
+	font-weight: bold;
+	font-size: 25px;
+}
+producerEmailAddress::before{
+	content: "Email Address: ";
+	font-weight: bold;
+	font-size: 25px;
+}
+producerName,producerAddress,producerPhoneNumber,producerEmailAddress{
+	display: block;
+	text-align: center;
+}

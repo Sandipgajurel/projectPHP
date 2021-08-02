@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE musicStore SYSTEM "catalog_19031586.dtd">
+<?xml-stylesheet type="text/css" href="catalog_19031586.css"?>
+<musicStore>
+	<storeName>SANDIP MUSIC STORE</storeName>
+	<Address>Koteshor-10, Kathmandu</Address>
+	<Contact>01-112323232</Contact>
+	<Website_Address>www.sandipmusicstore.com</Website_Address>
+	<Logo image="logoimg"/>
+
+	<Songs>
+
+	 	<music Type="Partysong">
+	 		<musicName id="01">Burjh Khalifa</musicName>
+	 		<releasedDate month="january">2020</releasedDate>
+	 		<movieName>Laxmi</movieName>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Nikhita Ghandhi</singerName>
+	 				<singerAddress>mumbai India</singerAddress>
+	 				<singerPhoneNumber>9102312241</singerPhoneNumber>
+	 				<singerEmailAddress>Nikhitagandhi98@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Gagan Ahuja</writerName>
+	 				<writerAddress>New Delhi india</writerAddress>
+	 				<writerPhoneNumber>9121213334</writerPhoneNumber>
+	 				<writerEmailAddress>GaganAhuha776@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Fox star studios</producerName>
+	 				<producerAddress>New Delhi India</producerAddress>
+	 				<producerPhoneNumber>9102238224</producerPhoneNumber>
+	 				<producerEmailAddress>foxstar556@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="Pop">
+	 		<musicName id="02">Despa'sito</musicName>
+	 		<releasedDate month="january">2017</releasedDate>
+	 		<language>spanish</language>
+	 		<album>Vida</album>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Luis Fonsi</singerName>
+	 				<singerAddress>Barcelona Spain</singerAddress>
+	 				<singerPhoneNumber>34989654753</singerPhoneNumber>
+	 				<singerEmailAddress>luies778@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Erika Ender</writerName>
+	 				<writerAddress>Madrid spain</writerAddress>
+	 				<writerPhoneNumber>34938736483</writerPhoneNumber>
+	 				<writerEmailAddress>Ender666@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Mauricio Rengifo</producerName>
+	 				<producerAddress>Valencia Spain</producerAddress>
+	 				<producerPhoneNumber>349082736483</producerPhoneNumber>
+	 				<producerEmailAddress>rengfifo000@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>		
+		
+		<music Type="SentimentalOldies">
+	 		<musicName id="03">Timro Jasto Mutu Mero</musicName>
+	 		<releasedDate month="january">2018</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Narayan Gopal</singerName>
+	 				<singerAddress>kathmandu Nepal</singerAddress>
+	 				<singerPhoneNumber>9841223332</singerPhoneNumber>
+	 				<singerEmailAddress>narayan88@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Gopal Yonjan</writerName>
+	 				<writerAddress>Pokhara Nepal</writerAddress>
+	 				<writerPhoneNumber>9844345456</writerPhoneNumber>
+	 				<writerEmailAddress>gopalyonjan667@gamil.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>karma Yonjan</producerName>
+	 				<producerAddress>Bhaktapur Nepal</producerAddress>
+	 				<producerPhoneNumber>9813338224</producerPhoneNumber>
+	 				<producerEmailAddress>karma676@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="LoveSong">
+	 		<musicName id="04">Teenpatey(dekhera timilai)</musicName>
+	 		<releasedDate month="august">2020</releasedDate>
+
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Sujan Chapagain</singerName>
+	 				<singerAddress>Kaski Nepal</singerAddress>
+	 				<singerPhoneNumber>9813278363</singerPhoneNumber>
+	 				<singerEmailAddress>sujan778@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Hark Saud</writerName>
+	 				<writerAddress>Kathmandu Nepal</writerAddress>
+	 				<writerPhoneNumber>9841778893</writerPhoneNumber>
+	 				<writerEmailAddress>saudhark777@gamil.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Ganga Thapa</producerName>
+	 				<producerAddress>Lalitpur Nepal</producerAddress>
+	 				<producerPhoneNumber>9810677988</producerPhoneNumber>
+	 				<producerEmailAddress>ganga555@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="LoveSong">
+	 		<musicName id="05">Humnava mere</musicName>
+	 		<releasedDate month="may">2018</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Jubin Nautiyal</singerName>
+	 				<singerAddress>UP India</singerAddress>
+	 				<singerPhoneNumber>9122378363</singerPhoneNumber>
+	 				<singerEmailAddress>Jubin78@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Manoj Muntasir</writerName>
+	 				<writerAddress>Bihar India</writerAddress>
+	 				<writerPhoneNumber>91241778893</writerPhoneNumber>
+	 				<writerEmailAddress>manoj237@gamil.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Aditya Dev</producerName>
+	 				<producerAddress>Hariyana india</producerAddress>
+	 				<producerPhoneNumber>91440677988</producerPhoneNumber>
+	 				<producerEmailAddress>deva555@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>				
+		
+		<music Type="LoveSong">
+	 		<musicName id="06">Meri Aashiqui</musicName>
+	 		<releasedDate month="jun">2020</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Jubin Nautiyal</singerName>
+	 				<singerAddress>UP India</singerAddress>
+	 				<singerPhoneNumber>9122378363</singerPhoneNumber>
+	 				<singerEmailAddress>Jubin78@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Shree Anwar Sager</writerName>
+	 				<writerAddress>mumbai india</writerAddress>
+	 				<writerPhoneNumber>91223378893</writerPhoneNumber>
+	 				<writerEmailAddress>shree227@gamil.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Aditya Dev</producerName>
+	 				<producerAddress>Delhi India</producerAddress>
+	 				<producerPhoneNumber>91430677988</producerPhoneNumber>
+	 				<producerEmailAddress>aditya443@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="ReligiousSong">
+	 		<musicName id="07">Namo Namo</musicName>
+	 		<releasedDate month="jul">2020</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Amit Trivedi</singerName>
+	 				<singerAddress>Hydrabad India</singerAddress>
+	 				<singerPhoneNumber>9122378363</singerPhoneNumber>
+	 				<singerEmailAddress>amit738@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Amitabh Bhattacharya</writerName>
+	 				<writerAddress>mumbai india</writerAddress>
+	 				<writerPhoneNumber>91333378893</writerPhoneNumber>
+	 				<writerEmailAddress>amitabh227@gamil.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Pragya Kapoor</producerName>
+	 				<producerAddress>Delhi India</producerAddress>
+	 				<producerPhoneNumber>91434677988</producerPhoneNumber>
+	 				<producerEmailAddress>pragya443@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="ReligiousSong">
+	 		<musicName id="08">jay bhole baba</musicName>
+	 		<releasedDate month="november">2019</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Baba Hansraj Raghuwansi</singerName>
+	 				<singerAddress>Sikkim India</singerAddress>
+	 				<singerPhoneNumber>91227788763</singerPhoneNumber>
+	 				<singerEmailAddress>hans78@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Hansraj Raghuwansi</writerName>
+	 				<writerAddress>Sikkim India</writerAddress>
+	 				<writerPhoneNumber>91227788763</writerPhoneNumber>
+	 				<writerEmailAddress>hans78@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Sirazee</producerName>
+	 				<producerAddress>Mumbai India</producerAddress>
+	 				<producerPhoneNumber>91789265728</producerPhoneNumber>
+	 				<producerEmailAddress>sigg443@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="DohoriSong">
+	 		<musicName id="09">Galbandi</musicName>
+	 		<releasedDate month="march">2019</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Prakash Saput</singerName>
+	 				<singerAddress>Gorkha Nepal</singerAddress>
+	 				<singerPhoneNumber>98235678976</singerPhoneNumber>
+	 				<singerEmailAddress>prakash223@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Prakash Saput</writerName>
+	 				<writerAddress>Gorkha Nepal</writerAddress>
+	 				<writerPhoneNumber>98235678976</writerPhoneNumber>
+	 				<writerEmailAddress>prakash223@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>BP Films Nepal</producerName>
+	 				<producerAddress>Kathmandu Nepal</producerAddress>
+	 				<producerPhoneNumber>9818494702</producerPhoneNumber>
+	 				<producerEmailAddress>bpfilms111@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="Pop">
+	 		<musicName id="10">Dusk Till Dawn</musicName>
+	 		<releasedDate month="september">2017</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Zyan Malik</singerName>
+	 				<singerAddress>Washington USA</singerAddress>
+	 				<singerPhoneNumber>9988676256</singerPhoneNumber>
+	 				<singerEmailAddress>zyandusk223@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Sia Furler</writerName>
+	 				<writerAddress>dubai UAE</writerAddress>
+	 				<writerPhoneNumber>19902898976</writerPhoneNumber>
+	 				<writerEmailAddress>sia43@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Gerg Kurstin</producerName>
+	 				<producerAddress>Lahor Pakistan</producerAddress>
+	 				<producerPhoneNumber>7998494702</producerPhoneNumber>
+	 				<producerEmailAddress>gerg444@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="LoveSong">
+	 		<musicName id="11">Mayalu</musicName>
+	 		<releasedDate month="july">2020</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Vek</singerName>
+	 				<singerAddress>Washington USA</singerAddress>
+	 				<singerPhoneNumber>9896736377464</singerPhoneNumber>
+	 				<singerEmailAddress>vekk778@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Yabesh Thapa</writerName>
+	 				<writerAddress>New York USA</writerAddress>
+	 				<writerPhoneNumber>19902898976</writerPhoneNumber>
+	 				<writerEmailAddress>Yabesh1111@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Storenutter</producerName>
+	 				<producerAddress>USA</producerAddress>
+	 				<producerPhoneNumber>190233884844</producerPhoneNumber>
+	 				<producerEmailAddress>Storenutter1212@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="LoveSong">
+	 		<musicName id="12">Bujhney Lai</musicName>
+	 		<releasedDate month="march">2019</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Tunna Bell Thapa</singerName>
+	 				<singerAddress>Kathmandu Nepal</singerAddress>
+	 				<singerPhoneNumber>9818676256</singerPhoneNumber>
+	 				<singerEmailAddress>bell9990@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Sabin Karki</writerName>
+	 				<writerAddress>Kathmandu Nepal</writerAddress>
+	 				<writerPhoneNumber>9813278282</writerPhoneNumber>
+	 				<writerEmailAddress>sabin111@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Beest Production</producerName>
+	 				<producerAddress>Kathmandu Nepal</producerAddress>
+	 				<producerPhoneNumber>0119999222</producerPhoneNumber>
+	 				<producerEmailAddress>beestproduction@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="Rock">
+	 		<musicName id="13">Muskan</musicName>
+	 		<releasedDate month="december">2016</releasedDate>
+	 		<genre>metal rock</genre>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Axis</singerName>
+	 				<singerAddress>Kathamandu Nepal</singerAddress>
+	 				<singerPhoneNumber>9818623226</singerPhoneNumber>
+	 				<singerEmailAddress>axis99@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Axis</writerName>
+	 				<writerAddress>Kathamandu Nepal</writerAddress>
+	 				<writerPhoneNumber>9818623226</writerPhoneNumber>
+	 				<writerEmailAddress>axis99@gmail.com</writerEmailAddress>
+	 			</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Barcode Productions</producerName>
+	 				<producerAddress>Kathmandu Nepal</producerAddress>
+	 				<producerPhoneNumber>012422292</producerPhoneNumber>
+	 				<producerEmailAddress>codebar889@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+	 	<music Type="Rock">
+	 		<musicName id="14">Gahiro</musicName>
+	 		<releasedDate month="feburary">2014</releasedDate>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Sareen Deoja</singerName>
+	 				<singerAddress>jhapa Nepal</singerAddress>
+	 				<singerPhoneNumber>981868963736</singerPhoneNumber>
+	 				<singerEmailAddress>sareen7272@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Sareen Deoja</writerName>
+	 				<writerAddress>jhapa Nepal</writerAddress>
+	 				<writerPhoneNumber>981868963736</writerPhoneNumber>
+	 				<writerEmailAddress>sareen7272@gmail.com</writerEmailAddress>
+				</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Monkey Temple Band</producerName>
+	 				<producerAddress>Chitwan Nepal</producerAddress>
+	 				<producerPhoneNumber>0127282292</producerPhoneNumber>
+	 				<producerEmailAddress>temple998@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+
+	 	<music Type="LoveSong">
+	 		<musicName id="15">phulbutte sari</musicName>
+	 		<releasedDate month="june">2021</releasedDate>
+	 		<versions>re-make version</versions>
+	 		<producingTeam>
+	 			<singer>
+	 				<singerName>Milan Newar</singerName>
+	 				<singerAddress>Nuwakot Nepal</singerAddress>
+	 				<singerPhoneNumber>9818689626</singerPhoneNumber>
+	 				<singerEmailAddress>milan444@gmail.com</singerEmailAddress>
+	 			</singer>
+
+	 			<musicWriter>
+	 				<writerName>Rajan Raj Siwakoti</writerName>
+	 				<writerAddress>Dhading Nepal</writerAddress>
+	 				<writerPhoneNumber>9818683336</writerPhoneNumber>
+	 				<writerEmailAddress>rajan7255@gmail.com</writerEmailAddress>
+				</musicWriter>	
+	 			
+	 			<producer>
+	 				<producerName>Kendra Limbu</producerName>
+	 				<producerAddress>Sunsari Nepal</producerAddress>
+	 				<producerPhoneNumber>9841155666</producerPhoneNumber>
+	 				<producerEmailAddress>kendra555@gmail.com</producerEmailAddress>
+	 			</producer>
+	 		</producingTeam>
+	 	</music>
+	</Songs>	
+</musicStore>	
